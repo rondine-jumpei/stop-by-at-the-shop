@@ -1,0 +1,6 @@
+framework module Pods_Stop_by_at_the_shop {
+  umbrella header "Pods-Stop by at the shop-umbrella.h"
+
+  export *
+  module * { export * }
+}

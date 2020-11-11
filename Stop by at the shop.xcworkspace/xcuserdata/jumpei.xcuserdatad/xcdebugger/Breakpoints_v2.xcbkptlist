@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "095F1F81-823C-4E78-8B76-D775BD639F7D"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6B390ED8-F9DF-4FDC-B354-33200C22F83D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Stop by at the shop/ViewControllers/NoticeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "NoticeViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "6B390ED8-F9DF-4FDC-B354-33200C22F83D - b0587b3efa0e80da"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Stop_by_at_the_shop.NoticeViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Stop_by_at_the_shop.NoticeViewController"
+                  moduleName = "Stop by at the shop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jumpei/Documents/%E3%82%8D%E3%83%BC%E3%82%93%E3%81%A6%E3%82%99%E3%81%83%E3%81%AD%E3%81%AE%E3%83%9E%E3%82%A4%E3%82%A2%E3%83%95%E3%82%9A%E3%83%AA/Stop%20by%20at%20the%20shop/Stop%20by%20at%20the%20shop/ViewControllers/NoticeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "577">
+               </Location>
+               <Location
+                  uuid = "6B390ED8-F9DF-4FDC-B354-33200C22F83D - 12b800ce121c765c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Stop_by_at_the_shop.NoticeViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Stop_by_at_the_shop.NoticeViewController&gt;"
+                  moduleName = "Stop by at the shop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jumpei/Documents/%E3%82%8D%E3%83%BC%E3%82%93%E3%81%A6%E3%82%99%E3%81%83%E3%81%AD%E3%81%AE%E3%83%9E%E3%82%A4%E3%82%A2%E3%83%95%E3%82%9A%E3%83%AA/Stop%20by%20at%20the%20shop/Stop%20by%20at%20the%20shop/ViewControllers/NoticeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "518">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9F1C149E-F1AE-4E6C-838A-CFC09964EB15"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Stop by at the shop/ViewControllers/MainTabBarViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
